@@ -1,0 +1,252 @@
+\begin{thebibliography}{10}
+
+\bibitem{framework_data3}
+Credit card fraud detection using autoencoders in h2o, 2019.
+
+\bibitem{framework_data5}
+Deep inside: Autoencoders, 2019.
+
+\bibitem{framework_data1}
+Deep learning book: Autoencoders, 2019.
+
+\bibitem{framework_data0}
+Ensemble learning in python, 2019.
+
+\bibitem{framework_data4}
+Outlier detection in streaming data, 2019.
+
+\bibitem{framework_data2}
+Sparse autoencoder. cs294a lecture notes, 2019.
+
+\bibitem{framework_data6}
+Understanding latent space in machine learning, 2019.
+
+\bibitem{aggarwal2017high}
+C.~C. Aggarwal.
+\newblock High-dimensional outlier detection: the subspace method.
+\newblock In {\em Outlier Analysis}, pages 149--184. Springer, 2017.
+
+\bibitem{aggarwal2005effective}
+C.~C. Aggarwal and S.~Y. Philip.
+\newblock An effective and efficient algorithm for high-dimensional outlier
+  detection.
+\newblock {\em The VLDB journal}, 14(2):211--221, 2005.
+
+\bibitem{ahmad2017unsupervised}
+S.~Ahmad, A.~Lavin, S.~Purdy, and Z.~Agha.
+\newblock Unsupervised real-time anomaly detection for streaming data.
+\newblock {\em Neurocomputing}, 262:134--147, 2017.
+
+\bibitem{andrews2016detecting}
+J.~T. Andrews, E.~J. Morton, and L.~D. Griffin.
+\newblock Detecting anomalous data using auto-encoders.
+\newblock {\em International Journal of Machine Learning and Computing},
+  6(1):21, 2016.
+
+\bibitem{angiulli2002fast}
+F.~Angiulli and C.~Pizzuti.
+\newblock Fast outlier detection in high dimensional spaces.
+\newblock In {\em European Conference on Principles of Data Mining and
+  Knowledge Discovery}, pages 15--27. Springer, 2002.
+
+\bibitem{assendorp2017deep}
+J.~P. Assendorp.
+\newblock {\em Deep learning for anomaly detection in multivariate time series
+  data}.
+\newblock PhD thesis, Hochschule f{\"u}r Angewandte Wissenschaften Hamburg,
+  2017.
+
+\bibitem{barbhuiya2018rads}
+S.~Barbhuiya, Z.~Papazachos, P.~Kilpatrick, and D.~S. Nikolopoulos.
+\newblock Rads: Real-time anomaly detection system for cloud data centres.
+\newblock {\em arXiv preprint arXiv:1811.04481}, 2018.
+
+\bibitem{bhattacharya2015outlier}
+G.~Bhattacharya, K.~Ghosh, and A.~S. Chowdhury.
+\newblock Outlier detection using neighborhood rank difference.
+\newblock {\em Pattern Recognition Letters}, 60:24--31, 2015.
+
+\bibitem{bontemps2016collective}
+L.~Bontemps, J.~McDermott, N.-A. Le-Khac, et~al.
+\newblock Collective anomaly detection based on long short-term memory
+  recurrent neural networks.
+\newblock In {\em International Conference on Future Data and Security
+  Engineering}, pages 141--152. Springer, 2016.
+
+\bibitem{breunig2000lof}
+M.~M. Breunig, H.-P. Kriegel, R.~T. Ng, and J.~Sander.
+\newblock Lof: identifying density-based local outliers.
+\newblock In {\em Proceedings of the 2000 ACM SIGMOD international conference
+  on Management of data}, pages 93--104, 2000.
+
+\bibitem{buda2018deepad}
+T.~S. Buda, B.~Caglayan, and H.~Assem.
+\newblock Deepad: A generic framework based on deep learning for time series
+  anomaly detection.
+\newblock In {\em Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining}, pages 577--588. Springer, 2018.
+
+\bibitem{chalapathy2019deep}
+R.~Chalapathy and S.~Chawla.
+\newblock Deep learning for anomaly detection: A survey.
+\newblock {\em arXiv preprint arXiv:1901.03407}, 2019.
+
+\bibitem{chalapathy2018anomaly}
+R.~Chalapathy, A.~K. Menon, and S.~Chawla.
+\newblock Anomaly detection using one-class neural networks.
+\newblock {\em arXiv preprint arXiv:1802.06360}, 2018.
+
+\bibitem{chalapathy2018group}
+R.~Chalapathy, E.~Toth, and S.~Chawla.
+\newblock Group anomaly detection using deep generative models.
+\newblock In {\em Joint European Conference on Machine Learning and Knowledge
+  Discovery in Databases}, pages 173--189. Springer, 2018.
+
+\bibitem{das2018desh}
+A.~Das, F.~Mueller, C.~Siegel, and A.~Vishnu.
+\newblock Desh: deep learning for system health prediction of lead times to
+  failure in hpc.
+\newblock In {\em Proceedings of the 27th International Symposium on
+  High-Performance Parallel and Distributed Computing}, pages 40--51, 2018.
+
+\bibitem{du2017deeplog}
+M.~Du, F.~Li, G.~Zheng, and V.~Srikumar.
+\newblock Deeplog: Anomaly detection and diagnosis from system logs through
+  deep learning.
+\newblock In {\em Proceedings of the 2017 ACM SIGSAC Conference on Computer and
+  Communications Security}, pages 1285--1298, 2017.
+
+\bibitem{erfani2016high}
+S.~M. Erfani, S.~Rajasegarar, S.~Karunasekera, and C.~Leckie.
+\newblock High-dimensional and large-scale anomaly detection using a linear
+  one-class svm with deep learning.
+\newblock {\em Pattern Recognition}, 58:121--134, 2016.
+
+\bibitem{ergen2017unsupervised}
+T.~Ergen, A.~H. Mirza, and S.~S. Kozat.
+\newblock Unsupervised and semi-supervised anomaly detection with lstm neural
+  networks.
+\newblock {\em arXiv preprint arXiv:1710.09207}, 2017.
+
+\bibitem{hautamaki2004outlier}
+V.~Hautamaki, I.~Karkkainen, and P.~Franti.
+\newblock Outlier detection using k-nearest neighbour graph.
+\newblock In {\em Proceedings of the 17th International Conference on Pattern
+  Recognition, 2004. ICPR 2004.}, volume~3, pages 430--433. IEEE, 2004.
+
+\bibitem{hawkins1980identification}
+D.~M. Hawkins.
+\newblock {\em Identification of outliers}, volume~11.
+\newblock Springer, 1980.
+
+\bibitem{hochreiter1997long}
+S.~Hochreiter and J.~Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{huang2011outlier}
+H.~Huang, K.~Mehrotra, and C.~K. Mohan.
+\newblock Outlier detection using modified-ranks and other variants.
+\newblock 2011.
+
+\bibitem{huang2013rank}
+H.~Huang, K.~Mehrotra, and C.~K. Mohan.
+\newblock Rank-based outlier detection.
+\newblock {\em Journal of Statistical Computation and Simulation},
+  83(3):518--531, 2013.
+
+\bibitem{kriegel2009loop}
+H.-P. Kriegel, P.~Kr{\"o}ger, E.~Schubert, and A.~Zimek.
+\newblock Loop: local outlier probabilities.
+\newblock In {\em Proceedings of the 18th ACM conference on Information and
+  knowledge management}, pages 1649--1652, 2009.
+
+\bibitem{kriegel2009outlier}
+H.-P. Kriegel, P.~Kr{\"o}ger, E.~Schubert, and A.~Zimek.
+\newblock Outlier detection in axis-parallel subspaces of high dimensional
+  data.
+\newblock In {\em Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining}, pages 831--838. Springer, 2009.
+
+\bibitem{kriegel2008angle}
+H.-P. Kriegel, M.~Schubert, and A.~Zimek.
+\newblock Angle-based outlier detection in high-dimensional data.
+\newblock In {\em Proceedings of the 14th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 444--452, 2008.
+
+\bibitem{lan2009toward}
+Z.~Lan, Z.~Zheng, and Y.~Li.
+\newblock Toward automated anomaly identification in large-scale systems.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  21(2):174--187, 2009.
+
+\bibitem{lazarevic2005feature}
+A.~Lazarevic and V.~Kumar.
+\newblock Feature bagging for outlier detection.
+\newblock In {\em Proceedings of the eleventh ACM SIGKDD international
+  conference on Knowledge discovery in data mining}, pages 157--166, 2005.
+
+\bibitem{mohammadi2018deep}
+M.~Mohammadi, A.~Al-Fuqaha, S.~Sorour, and M.~Guizani.
+\newblock Deep learning for iot big data and streaming analytics: A survey.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 20(4):2923--2960,
+  2018.
+
+\bibitem{muller2008outrank}
+E.~Muller, I.~Assent, U.~Steinhausen, and T.~Seidl.
+\newblock Outrank: ranking outliers in high dimensional data.
+\newblock In {\em 2008 IEEE 24th international conference on data engineering
+  workshop}, pages 600--603. IEEE, 2008.
+
+\bibitem{muller2011statistical}
+E.~M{\"u}ller, M.~Schiffer, and T.~Seidl.
+\newblock Statistical selection of relevant subspace projections for outlier
+  ranking.
+\newblock In {\em 2011 IEEE 27th international conference on data engineering},
+  pages 434--445. IEEE, 2011.
+
+\bibitem{radovanovic2014reverse}
+M.~Radovanovi{\'c}, A.~Nanopoulos, and M.~Ivanovi{\'c}.
+\newblock Reverse nearest neighbors in unsupervised distance-based outlier
+  detection.
+\newblock {\em IEEE transactions on knowledge and data engineering},
+  27(5):1369--1382, 2014.
+
+\bibitem{ramaswamy2000efficient}
+S.~Ramaswamy, R.~Rastogi, and K.~Shim.
+\newblock Efficient algorithms for mining outliers from large data sets.
+\newblock In {\em Proceedings of the 2000 ACM SIGMOD international conference
+  on Management of data}, pages 427--438, 2000.
+
+\bibitem{ruff2018deep}
+L.~Ruff, R.~Vandermeulen, N.~Goernitz, L.~Deecke, S.~A. Siddiqui, A.~Binder,
+  E.~M{\"u}ller, and M.~Kloft.
+\newblock Deep one-class classification.
+\newblock In {\em International conference on machine learning}, pages
+  4393--4402, 2018.
+
+\bibitem{tang2017local}
+B.~Tang and H.~He.
+\newblock A local density-based approach for outlier detection.
+\newblock {\em Neurocomputing}, 241:171--180, 2017.
+
+\bibitem{xu2019recent}
+X.~Xu, H.~Liu, and M.~Yao.
+\newblock Recent progress of anomaly detection.
+\newblock {\em Complexity}, 2019, 2019.
+
+\bibitem{zhang2012shared}
+L.~Zhang, Z.~He, and D.~Lei.
+\newblock Shared nearest neighbors based outlier detection for biological
+  se-quences.
+\newblock {\em International Journal of Digital Content Technology and Its
+  Applications}, 6(12):1--10, 2012.
+
+\bibitem{zimek2012survey}
+A.~Zimek, E.~Schubert, and H.-P. Kriegel.
+\newblock A survey on unsupervised outlier detection in high-dimensional
+  numerical data.
+\newblock {\em Statistical Analysis and Data Mining: The ASA Data Science
+  Journal}, 5(5):363--387, 2012.
+
+\end{thebibliography}

@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: prospectus.aux
+The style file: abbrv.bst
+Database file #1: references.bib
+Warning--to sort, need author or key in framework_data0
+Warning--to sort, need author or key in framework_data1
+Warning--to sort, need author or key in framework_data2
+Warning--to sort, need author or key in framework_data3
+Warning--to sort, need author or key in framework_data4
+Warning--to sort, need author or key in framework_data5
+Warning--to sort, need author or key in framework_data6
+Warning--empty journal in huang2011outlier
+You've used 45 entries,
+            2118 wiz_defined-function locations,
+            725 strings with 11235 characters,
+and the built_in function-call counts, 16388 in all, are:
+= -- 1650
+> -- 708
+< -- 19
++ -- 284
+- -- 236
+* -- 1083
+:= -- 2506
+add.period$ -- 130
+call.type$ -- 45
+change.case$ -- 250
+chr.to.int$ -- 0
+cite$ -- 53
+duplicate$ -- 665
+empty$ -- 1341
+format.name$ -- 236
+if$ -- 3580
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 38
+newline$ -- 214
+num.names$ -- 76
+pop$ -- 320
+preamble$ -- 1
+purify$ -- 207
+quote$ -- 0
+skip$ -- 532
+stack$ -- 0
+substring$ -- 1084
+swap$ -- 215
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 178
+warning$ -- 8
+while$ -- 152
+width$ -- 47
+write$ -- 466
+(There were 8 warnings)
